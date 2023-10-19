@@ -1,6 +1,6 @@
 Hi!! whats up?
 # 💫 About Me:
-i'm studyng a bootcam fullstack jr<br>i'm working in my own proyects
+I'm finished a bootcamp FullStack JR <br>i'm working in my own proyects
 
 
 # 💻 Tech Stack:
